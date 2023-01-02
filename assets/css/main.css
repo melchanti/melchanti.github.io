@@ -3529,9 +3529,16 @@ input, select, textarea {
 	}
 
 /* New */
+  .architecture {
+    width: 100%;
+  }
 	.trellis {
 		font-style: normal;
 	}
+  .video {
+    width: 100%;
+    margin-top: 10%;
+  }
 
 	#profile {
 		width: 29%;
